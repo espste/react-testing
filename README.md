@@ -1,3 +1,3 @@
 ## Testing in React
 
-Using testing-library & Jest
+Test practice using testing-library & Jest
